@@ -1,4 +1,4 @@
-# Automa-o-cadastrar-produtos
+# Automação-cadastrar-produtos
 # Automação de Cadastro de Produtos
 
 Projeto desenvolvido em Python para automatizar o cadastro de produtos em um formulário web.
