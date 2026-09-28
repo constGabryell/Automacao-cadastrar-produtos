@@ -1,6 +1,6 @@
 import pyautogui
 import pandas
-import time
+
 #pyautogui.click -> clica com mouse
 #pyautogui.write -> escreve com teclado
 #pyautogui.press -> aperta uma tecla
