@@ -48,7 +48,7 @@ python main.py
 ````
 ##Observações
 
-A automação utiliza coordenadas da tela para realizar alguns cliques. Por isso, pode ser necessário ajustar as coordenadas dependendo da resolução ou configuração do computador.
+-A automação utiliza coordenadas da tela para realizar alguns cliques. Por isso, pode ser necessário ajustar as coordenadas dependendo da resolução ou configuração do computador.
 Objetivo do projeto
 
 -Este projeto foi desenvolvido com o objetivo de praticar Python e aplicar conceitos de automação, manipulação de dados e controle de mouse e teclado.-
